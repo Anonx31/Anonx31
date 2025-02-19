@@ -16,9 +16,9 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Parrot%20OS-0F9D58?style=for-the-badge&logo=linux&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Win%10-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Brave-FF5722?style=for-the-badge&logo=brave&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Redgear_Fizz_K617-1E90FF?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Redgear_K617-1E90FF?style=for-the-badge"></td>
   </tr>
 </table>
 
@@ -29,15 +29,15 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bobby-Dsouza&show_icons=true&theme=great-gatsby" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anonx31&show_icons=true&theme=great-gatsby" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-Dsouza&layout=compact&theme=great-gatsby" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonx31&layout=compact&theme=great-gatsby" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bobby-Dsouza&theme=great-gatsby" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonx31&theme=great-gatsby" />
 </p>
 
 ---
