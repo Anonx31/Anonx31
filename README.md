@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Bobby!</h1>
+<h1 align="center">Hey there, I'm Bobby! 👋</h1>
 <p align="center">B.Sc. IT | Programmer | Cyber Security Enthusiast</p>
 
 ---
@@ -24,17 +24,20 @@
 
 </div>
 
-
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anonx31&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bobby-Dsouza&show_icons=true&theme=great-gatsby" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonx31&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-Dsouza&layout=compact&theme=great-gatsby" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bobby-Dsouza&theme=great-gatsby" />
 </p>
 
 ---
