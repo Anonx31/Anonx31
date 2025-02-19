@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Parrot%20OS-0F9D58?style=for-the-badge&logo=linux&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Win%10-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Brave-FF5722?style=for-the-badge&logo=brave&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Redgear_K617-1E90FF?style=for-the-badge"></td>
   </tr>
