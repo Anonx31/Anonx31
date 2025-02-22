@@ -21,7 +21,6 @@
     <td><img src="https://img.shields.io/badge/Redgear_Fizz_K617-1E90FF?style=for-the-badge"></td>
   </tr>
 </table>
-
 </div>
 
 ---
