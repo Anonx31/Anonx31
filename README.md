@@ -42,6 +42,14 @@
 
 ---
 
+<h2 align="center">🏴‍☠️ TryHackMe Stats 🏴‍☠️</h2>
+
+<p align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1905838" style='border:none; width:400px; height:200px;'></iframe>
+</p>
+
+---
+
 <h2 align="center">📡 Connect</h2>
 
 <p align="center">
