@@ -3,24 +3,25 @@
 
 ---
 
-<h2 align="center">🛠 Tools</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
-<table>
-  <tr>
-    <th>Dev OS</th>
-    <th>Gaming OS</th>
-    <th>Browser</th>
-    <th>Keyboard</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Parrot%20OS-0F9D58?style=for-the-badge&logo=linux&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Brave-FF5722?style=for-the-badge&logo=brave&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Redgear_Fizz_K617-1E90FF?style=for-the-badge"></td>
-  </tr>
-</table>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -42,10 +43,18 @@
 
 ---
 
-<h2 align="center">🏴‍☠️ TryHackMe Stats 🏴‍☠️</h2>
+<h2 align="center">📊 Coding Activity</h2>
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1905838" style='border:none; width:400px; height:200px;'></iframe>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anonx31&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">🔐 TryHackMe Stats</h2>
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/itsanon31.png" alt="TryHackMe Badge" />
 </p>
 
 ---
@@ -62,6 +71,22 @@
   <a href="mailto:bobbydsouza3102@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<h2 align="center">👀 Visitor Count</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/anonx31/count.svg" alt="Visitor Count" />
+</p>
+
+---
+
+<h2 align="center">💬 Quote of the Day</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
 </p>
 
 ---
