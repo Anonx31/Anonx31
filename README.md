@@ -51,10 +51,38 @@
 
 ---
 
-<h2 align="center">🏅 Certifications</h2>
+<h2 align="center">🚀 Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/anonx31/project-1">
+    <img src="https://img.shields.io/badge/Project%201-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
+  </a>
+  <a href="https://github.com/anonx31/project-2">
+    <img src="https://img.shields.io/badge/Project%202-6B5B95?style=for-the-badge&logo=github&logoColor=white" alt="Project 2" />
+  </a>
+  <a href="https://github.com/anonx31/project-3">
+    <img src="https://img.shields.io/badge/Project%203-88B04B?style=for-the-badge&logo=github&logoColor=white" alt="Project 3" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Project 1:</strong> A brief description of Project 1. <br />
+  <strong>Project 2:</strong> A brief description of Project 2. <br />
+  <strong>Project 3:</strong> A brief description of Project 3.
+</p>
+
+---
+
+<h2 align="center">🏅 Achievements</h2>
 
 <p align="center">
   <img src="/assets/images/introduction-to-cybersecurity.png" alt="Cisco Cyber Security Badge" style="width: 128px; height: 128px; animation: rotate 4s linear infinite;" />
+</p>
+
+<p align="center">
+  <strong>🎓 Graduated with a B.Sc. in IT</strong> <br />
+  <strong>🏆 Completed Cisco's Introduction to Cyber Security</strong> <br />
+  <strong>🌟 Ranked in the top 10% on TryHackMe</strong>
 </p>
 
 ---
