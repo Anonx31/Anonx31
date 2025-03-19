@@ -51,9 +51,11 @@
 
 ---
 
-## 🏅 Certifications
+<h2 align="center">🏅 Certifications</h2>
 
+<p align="center">
 ![Cisco Cyber Security Badge](https://raw.githubusercontent.com/Anonx31/Anonx31/main/introduction-to-cybersecurity.png)
+</p>
 
 ---
 
