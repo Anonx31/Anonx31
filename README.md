@@ -54,7 +54,7 @@
 <h2 align="center">🏅 Certifications</h2>
 
 <p align="center">
-![Cisco Cyber Security Badge](https://raw.githubusercontent.com/Anonx31/Anonx31/main/introduction-to-cybersecurity.png)
+  <img src="/assets/images/introduction-to-cybersecurity.png" alt="Cisco Cyber Security Badge" style="width: 128px; height: 128px; animation: rotate 4s linear infinite;" />
 </p>
 
 ---
@@ -102,3 +102,14 @@
 <p align="center">
   ⭐️ <strong>"Think like a hacker, secure like an expert!"</strong> ⭐️
 </p>
+
+<style>
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+</style>
