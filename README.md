@@ -7,27 +7,27 @@
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<h3>Languages</h3>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white)
+<h3>Tools & Frameworks</h3>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white" />
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<h3>Databases</h3>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div>
 
 ---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonx31&theme=great-gatsby" />
@@ -43,32 +43,16 @@
 
 ---
 
-<h2 align="center">📊 Coding Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anonx31&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 <h2 align="center">🏅 Achievements</h2>
 
 <p align="center">
-  <img src="/assets/images/introduction-to-cybersecurity.png" alt="Cisco Cyber Security Badge" style="width: 128px; height: 128px; animation: rotate 4s linear infinite;" />
+  <img src="/assets/images/introduction-to-cybersecurity.png" alt="Cisco Cyber Security Badge" style="width: 128px; height: 128px; animation: rotate 5s linear infinite;" />
 </p>
 
 <p align="center">
-  <strong>🎓 Graduated with a B.Sc. in IT</strong> <br />
-  <strong>🏆 Completed Cisco's Introduction to Cyber Security</strong> <br />
-  <strong>🌟 Ranked in the top 10% on TryHackMe</strong>
-</p>
-
----
-
-<h2 align="center">🔐 TryHackMe Stats</h2>
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/itsanon31.png" alt="TryHackMe Badge" />
+  <strong>🎓 B.Sc. IT Graduate</strong> <br />
+  <strong>🏆 Cisco's Introduction to Cyber Security</strong> <br />
+  <strong>🌟 Top 10% on TryHackMe</strong>
 </p>
 
 ---
@@ -78,9 +62,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bobby-dsouza-63a5b633b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/anon_x_31">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="mailto:bobbydsouza3102@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -97,25 +78,14 @@
 
 ---
 
-<h2 align="center">💬 Quote of the Day</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
-</p>
-
----
-
 <p align="center">
   ⭐️ <strong>"Think like a hacker, secure like an expert!"</strong> ⭐️
 </p>
 
-<script>
-  const style = document.createElement('style');
-  style.textContent = `
-    @keyframes rotate {
-      from { transform: rotate(0deg); }
-      to { transform: rotate(360deg); }
-    }
-  `;
-  document.head.appendChild(style);
-</script>
+<!-- CSS Styling for rotation -->
+<style>
+  @keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+</style>
