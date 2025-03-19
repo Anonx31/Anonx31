@@ -30,10 +30,6 @@
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonx31&theme=great-gatsby" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anonx31&show_icons=true&theme=great-gatsby" />
 </p>
 
@@ -45,14 +41,18 @@
 
 <h2 align="center">🏅 Achievements</h2>
 
-<p align="center">
-  <img src="/assets/images/introduction-to-cybersecurity.png" alt="Cisco Cyber Security Badge" style="width: 128px; height: 128px;" />
-</p>
+<h2 align="center">🏅 Achievements & Certifications</h2>
 
 <p align="center">
-  <strong>🎓 B.Sc. IT Graduate</strong> <br />
-  <strong>🏆 Cisco's Introduction to Cyber Security</strong> <br />
-  <strong>🌟 Top 10% on TryHackMe</strong>
+  <strong>🎓 B.Sc. IT Graduate — Oriental College of Commerce and Technology, Mumbai</strong> <br />
+  <!--<strong>🎯 SOC Executive — Modern Informatics</strong> <br />-->
+  <strong>🌟 Top 10% on TryHackMe — Cybersecurity learning platform</strong> <br />
+  <strong>🏆 Cisco's Introduction to Cyber Security — Completed</strong> <br />
+  <strong>🔒 EC-Council CodeRed: Essential Hacking and Exploitation (EHE) — Completed</strong> <br />
+  <strong>🛡️ EC-Council CodeRed: Network Defense Essentials (NDE) — Completed</strong> <br />
+  <strong>💼 Tata Consultancy Services (TCS) Cybersecurity Job Simulation — Completed</strong> <br />
+  <strong>💳 Mastercard Cybersecurity Job Simulation — Completed</strong> <br />
+  <strong>🌐 FreeCodeCamp: Responsive Web Design Certification — Completed</strong>
 </p>
 
 ---
