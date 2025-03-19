@@ -1,4 +1,4 @@
-<body style="background-color:#000"><h1 align="center">Hey there, It's Anon! 👋</h1>
+<body style="background-color:#000;"><h1 align="center">Hey there, It's Anon! 👋</h1>
 <p align="center">B.Sc. IT | Programmer | Cyber Security Enthusiast</p>
 
 ---
