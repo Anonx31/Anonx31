@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, It's Anon! 👋</h1>
+<body style="background-color:#000"><h1 align="center">Hey there, It's Anon! 👋</h1>
 <p align="center">B.Sc. IT | Programmer | Cyber Security Enthusiast</p>
 
 ---
@@ -46,7 +46,7 @@
 <h2 align="center">🏅 Achievements</h2>
 
 <p align="center">
-  <img src="/assets/images/introduction-to-cybersecurity.png" alt="Cisco Cyber Security Badge" style="width: 128px; height: 128px; animation: rotate 5s linear infinite;" />
+  <img src="/assets/images/introduction-to-cybersecurity.png" alt="Cisco Cyber Security Badge" style="width: 128px; height: 128px;" />
 </p>
 
 <p align="center">
@@ -81,11 +81,4 @@
 <p align="center">
   ⭐️ <strong>"Think like a hacker, secure like an expert!"</strong> ⭐️
 </p>
-
-<!-- CSS Styling for rotation -->
-<style>
-  @keyframes rotate {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-</style>
+</body>
