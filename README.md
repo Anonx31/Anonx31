@@ -39,8 +39,6 @@
 
 ---
 
-<h2 align="center">🏅 Achievements</h2>
-
 <h2 align="center">🏅 Achievements & Certifications</h2>
 
 <p align="center">
